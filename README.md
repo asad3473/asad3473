@@ -53,7 +53,7 @@
 ### 📫 Let's Connect
 
 - GitHub: [asad3473](https://github.com/asad3473)
-- LinkedIn: https://www.linkedin.com/in/asadi987/
+- LinkedIn: https://www.linkedin.com/in/asad9873/
 - Portfolio: https://asad-portfolio-one.vercel.app/
 - Email: asadsoomro0311@gmmail.com
 
